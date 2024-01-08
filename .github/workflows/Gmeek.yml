@@ -1,4 +1,4 @@
-name: build Gmeek
+name: build xxkln
 
 on:
   workflow_dispatch:
